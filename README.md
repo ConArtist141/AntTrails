@@ -9,9 +9,10 @@ let the sequence of polygons ![formula](https://render.githubusercontent.com/ren
 ![formula](https://render.githubusercontent.com/render/math?math=V^{(j)}=\{(x_i^{(j)},y_i^{(j)})\}_{i=0}^N,)
 
 ![formula](https://render.githubusercontent.com/render/math?math=x_i^{(j)}=(x_{i+1}^{(j-1)}+x_i^{(j-1)})/2,)
-$$y_i^{(j)} = (y_{i+1}^{(j - 1)} + y_i^{(j - 1)}) / 2\,.$$
 
-What will be the shape of $V^{(j)}$ as $j \rightarrow \infty$?
+![formula](https://render.githubusercontent.com/render/math?math=y_i^{(j)}=(y_{i+1}^{(j-1)}+y_i^{(j-1)})/2.)
+
+What will be the shape of the polygon after a very large number of iterations?
 
 ## The Answer
 
