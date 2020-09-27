@@ -16,7 +16,7 @@ What will be the shape of the polygon after a very large number of iterations?
 
 ## The Answer
 
-I won't tell you why, because it's your job to find out, but the answer is that the shape will eventually converge to an **ellipse** if it is property rescaled every time. To show that process by which this happens, I wrote a little graphics program to animate the polygons out on screen starting from a random initialization. Here's a trail run:
+I won't tell you why, because it's your job to find out, but the answer is that the shape will eventually converge to an **ellipse** if it is properly rescaled every time. To show that process by which this happens, I wrote a little graphics program to animate the polygons out on screen starting from a random initialization. Here's a trail run:
 
 ![im0](images/im1.png)
 
